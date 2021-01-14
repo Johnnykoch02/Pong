@@ -15,7 +15,7 @@ public class AI {
                 bY+=yD;
                 
                 
-                if (bY <= 0 || bY >= 540) {4
+                if (bY <= 0 || bY >= 540) {
                     yD = -yD;
             }
         }
